@@ -1,0 +1,6 @@
+kernel
+vmlinux
+serial.log
+rootfs
+rootfs_patched.cpio
+start.sh
